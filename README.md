@@ -17,7 +17,7 @@ The **AdventureWorks Sales Dashboard** is an interactive business intelligence t
 
 *High-level snapshot of company performance.*
 
-> ![Summary Metrics Screenshot](./images/summary_metrics.png)
+
 
 ---
 
@@ -28,7 +28,6 @@ The **AdventureWorks Sales Dashboard** is an interactive business intelligence t
 * **Monthly Orders:** 2,146 (−0.88% from previous month)
 * **Monthly Returns:** 166 (+1.78% from previous month)
 
-> ![Revenue Trends Screenshot](./images/revenue_trends.png)
 
 ---
 
@@ -39,7 +38,7 @@ The **AdventureWorks Sales Dashboard** is an interactive business intelligence t
 * **Most Returned Product Type:** Shorts
 * **Top 10 Products by Revenue and Return %**: Highlights high-return products.
 
-> ![Product Performance Screenshot](./images/product_performance.png)
+
 
 ---
 
@@ -48,7 +47,7 @@ The **AdventureWorks Sales Dashboard** is an interactive business intelligence t
 * **Map of Orders by Continent:** North America, Europe, Pacific
 * Interactive filters to select continents or view all
 
-> ![Geographical Analysis Screenshot](./images/geographical_analysis.png)
+
 
 ---
 
@@ -59,7 +58,7 @@ The **AdventureWorks Sales Dashboard** is an interactive business intelligence t
 * Returns Analysis and Trends
 * Price Adjustment Slider for profit scenario simulation
 
-> ![Product-Level Analysis Screenshot](./images/product_level_analysis.png)
+
 
 ---
 
@@ -72,7 +71,6 @@ The **AdventureWorks Sales Dashboard** is an interactive business intelligence t
 * **Top Customers:** Table showing top 100 by orders & revenue
 * **Top Customer by Revenue:** MR. MAURICE SHAN (6 orders, ₹12.4K revenue)
 
-> ![Customer Analysis Screenshot](./images/customer_analysis.png)
 
 ---
 
